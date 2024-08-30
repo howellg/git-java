@@ -17,4 +17,7 @@ public class HelloWorld {
         private void f4() { 
             //v4.0
         }
+        private void f5() { 
+            //v5.0
+        }
     }
