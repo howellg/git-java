@@ -14,4 +14,7 @@ public class HelloWorld {
             // Placeholder method (v3.0)
             }
             //
+        private void f4() { 
+            //f4
+        }
     }
